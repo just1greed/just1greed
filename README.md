@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @just1greed
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning the C language
+- 🌱 I’m currently learning the C，C++，python，html，js language
 - 📫 How to reach me ...
 
 <!---
